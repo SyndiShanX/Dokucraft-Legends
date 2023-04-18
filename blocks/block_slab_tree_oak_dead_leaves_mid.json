@@ -1,7 +1,7 @@
 {
     "format_version": "1.15.0",
     "badger:client_block": {
-        "badger:block_tree_oak_dead_leaves_mid": {
+        "badger:block_slab_tree_oak_dead_leaves": {
             "textures": "textures/dokucraft/blocks/leaves/oak/oak_dead_leaves"
         }
     }

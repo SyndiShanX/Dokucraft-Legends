@@ -1,0 +1,28 @@
+{
+    "format_version": "1.15.0",
+    "badger:client_block": {
+        "badger:block_slab_tree_cedar_leaves_q2": {
+            "textures": {
+                "down": {
+                    "smart": {
+                          "default" : "textures/dokucraft/blocks/leaves/cedar/cedar_leaves",
+                          "empty" : "textures/dokucraft/blocks/leaves/cedar/cedar_leaves",
+                          "L" : "textures/dokucraft/blocks/leaves/cedar/cedar_leaves",
+                          "line" : "textures/dokucraft/blocks/leaves/cedar/cedar_leaves",
+                           "T" : "textures/dokucraft/blocks/leaves/cedar/cedar_leaves"
+                      }
+                },
+                "up": {
+                    "smart": {
+                          "default" : "textures/dokucraft/blocks/leaves/cedar/cedar_leaves",
+                          "empty" : "textures/dokucraft/blocks/leaves/cedar/cedar_leaves",
+                          "L" : "textures/dokucraft/blocks/leaves/cedar/cedar_leaves",
+                          "line" : "textures/dokucraft/blocks/leaves/cedar/cedar_leaves",
+                           "T" : "textures/dokucraft/blocks/leaves/cedar/cedar_leaves"
+                        }
+                    },          
+                "side": "textures/dokucraft/blocks/leaves/cedar/cedar_leaves"
+                }
+            }
+        }
+    }

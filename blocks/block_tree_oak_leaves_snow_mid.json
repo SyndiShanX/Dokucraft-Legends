@@ -3,9 +3,9 @@
   "badger:client_block": {
     "badger:block_tree_oak_leaves_snow_mid": {
       "textures": {
-        "down": "textures/dokucraft/blocks/oak_leaves_frost", 
+        "down": "textures/dokucraft/blocks/leaves/oak/oak_leaves_frost", 
         "up": "textures/dokucraft/blocks/snow", 
-        "side": "textures/dokucraft/blocks/oak_leaves_snow"
+        "side": "textures/dokucraft/blocks/leaves/oak/oak_leaves_snow"
       }
     }
   }

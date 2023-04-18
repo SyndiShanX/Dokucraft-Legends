@@ -3,9 +3,9 @@
   "badger:client_block": {
     "badger:block_tree_oak_dead_leaves_novfx": {
       "textures": {
-        "up": "textures/dokucraft/blocks/oak_dead_leaves",
-        "down": "textures/dokucraft/blocks/oak_dead_leaves",
-        "side": "textures/dokucraft/blocks/oak_dead_leaves"
+        "up": "textures/dokucraft/blocks/leaves/oak/oak_dead_leaves",
+        "down": "textures/dokucraft/blocks/leaves/oak/oak_dead_leaves",
+        "side": "textures/dokucraft/blocks/leaves/oak/oak_dead_leaves"
     }
   }
 }

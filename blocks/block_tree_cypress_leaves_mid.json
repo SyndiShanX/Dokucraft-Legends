@@ -1,0 +1,12 @@
+{
+    "format_version": "1.15.0",
+    "badger:client_block": {
+        "badger:block_tree_cypress_leaves": {
+            "textures": {
+                "up": "textures/dokucraft/blocks/leaves/cypress_leaves",
+                "down": "textures/dokucraft/blocks/leaves/cypress_leaves",
+                "side": "textures/dokucraft/blocks/leaves/cypress_leaves"
+            }
+        }
+    }
+}

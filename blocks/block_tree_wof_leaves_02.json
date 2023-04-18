@@ -6,9 +6,9 @@
             "up": true
         },
       "textures": {
-        "down": "textures/dokucraft/blocks/leaves_wof", 
-        "up": "textures/dokucraft/blocks/leaves_wof", 
-        "side": "textures/dokucraft/blocks/leaves_wof"
+        "down": "textures/dokucraft/blocks/leaves/leaves_wof", 
+        "up": "textures/dokucraft/blocks/leaves/leaves_wof", 
+        "side": "textures/dokucraft/blocks/leaves/leaves_wof"
       }
     }
   }

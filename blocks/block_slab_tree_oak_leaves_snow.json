@@ -1,11 +1,11 @@
 {
   "format_version": "1.15.0", 
   "badger:client_block": {
-    "badger:block_tree_oak_leaves_snow_top": {
+    "badger:block_slab_tree_oak_leaves_snow": {
       "textures": {
         "down": "textures/dokucraft/blocks/leaves/oak/oak_leaves_frost", 
         "up": "textures/dokucraft/blocks/snow", 
-        "side": "textures/dokucraft/blocks/leaves/oak/oak_leaves_snow"
+        "side": "textures/dokucraft/blocks/leaves/oak/oak_leaves_snow_slab"
       }
     }
   }

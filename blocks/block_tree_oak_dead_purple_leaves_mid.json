@@ -2,7 +2,7 @@
     "format_version": "1.15.0",
     "badger:client_block": {
         "badger:block_tree_oak_dead_purple_leaves_mid": {
-            "textures": "textures/dokucraft/blocks/oak_dead_purple_leaves"
+            "textures": "textures/dokucraft/blocks/leaves/oak/oak_dead_purple_leaves"
         }
     }
 }

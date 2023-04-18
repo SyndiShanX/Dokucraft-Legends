@@ -2,7 +2,7 @@
   "format_version": "1.15.0", 
   "badger:client_block": {
     "badger:block_tree_oak_leaves_frost_mid": {
-      "textures": "textures/dokucraft/blocks/oak_leaves_frost"
+      "textures": "textures/dokucraft/blocks/leaves/oak/oak_leaves_frost"
     }
   }
 }
