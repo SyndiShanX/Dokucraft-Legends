@@ -1,0 +1,12 @@
+{
+    "format_version": "1.15.0",
+    "badger:client_block": {
+        "badger:block_tree_oak_dead_purple_leaves": {
+            "textures": {
+                "up": "textures/dokucraft/blocks/oak_dead_purple_leaves",
+                "down": "textures/dokucraft/blocks/oak_dead_purple_leaves",
+                "side": "textures/dokucraft/blocks/oak_dead_purple_leaves"
+            }
+        }
+    }
+}

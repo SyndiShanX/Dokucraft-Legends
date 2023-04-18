@@ -1,0 +1,12 @@
+{
+  "format_version": "1.15.0", 
+  "badger:client_block": {
+    "badger:block_gravel": {
+      "textures": {
+        "down": "textures/dokucraft/blocks/gravel", 
+        "up": "textures/dokucraft/blocks/gravel", 
+        "side": "textures/dokucraft/blocks/gravel"
+      }
+    }
+  }
+}

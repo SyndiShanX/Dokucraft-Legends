@@ -1,0 +1,13 @@
+{
+    "format_version": "1.15.0",
+    "badger:client_block": {
+        "badger:block_magma": {
+            "textures": {
+                "up": "textures/dokucraft/blocks/magma",
+                "down": "textures/dokucraft/blocks/magma",
+                "side": "textures/dokucraft/blocks/magma"
+              } 
+              
+        }
+    }
+}

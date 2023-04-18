@@ -1,0 +1,12 @@
+{
+    "format_version": "1.15.0",
+    "badger:client_block": {
+        "badger:block_log_dark_oak": {
+            "textures": {
+                "up": "textures/dokucraft/blocks/dark_oak_log_top",
+                "down": "textures/dokucraft/blocks/dark_oak_log_top",
+                "side": "textures/dokucraft/blocks/dark_oak_log"
+            }
+        }
+    }
+}
