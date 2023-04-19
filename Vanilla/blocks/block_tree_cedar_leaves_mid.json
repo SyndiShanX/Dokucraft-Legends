@@ -3,9 +3,9 @@
     "badger:client_block": {
         "badger:block_tree_cedar_leaves_mid": {
             "textures": {
-                "up": "textures/dokucraft/blocks/leaves/cedar_leaves",
-                "down": "textures/dokucraft/blocks/leaves/cedar_leaves",
-                "side": "textures/dokucraft/blocks/leaves/cedar_leaves"
+                "up": "textures/blocks/tex_block_tree_cedar_leaves_top",
+                "down": "textures/blocks/tex_block_tree_cedar_leaves_top",
+                "side": "textures/blocks/tex_block_tree_cedar_leaves_blend"
             },
             "particle_spawner": {
                 "effects" : [

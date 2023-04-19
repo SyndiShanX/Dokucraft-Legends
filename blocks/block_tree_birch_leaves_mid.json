@@ -1,7 +1,7 @@
 {
     "format_version": "1.15.0",
     "badger:client_block": {
-        "badger:block_tree_birch_leaves": {
+        "badger:block_tree_birch_leaves_mid": {
             "textures": {
                 "up": "textures/dokucraft/blocks/leaves/birch/birch_leaves",
                 "down": "textures/dokucraft/blocks/leaves/birch/birch_leaves",

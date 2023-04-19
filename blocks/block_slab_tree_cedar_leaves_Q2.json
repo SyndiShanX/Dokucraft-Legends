@@ -5,23 +5,23 @@
             "textures": {
                 "down": {
                     "smart": {
-                          "default" : "textures/dokucraft/blocks/leaves/cedar/cedar_leaves",
-                          "empty" : "textures/dokucraft/blocks/leaves/cedar/cedar_leaves",
-                          "L" : "textures/dokucraft/blocks/leaves/cedar/cedar_leaves",
-                          "line" : "textures/dokucraft/blocks/leaves/cedar/cedar_leaves",
-                           "T" : "textures/dokucraft/blocks/leaves/cedar/cedar_leaves"
+                          "default" : "textures/dokucraft/blocks/leaves/cedar_leaves",
+                          "empty" :"textures/dokucraft/blocks/leaves/cedar_leaves",
+                          "L" : "textures/dokucraft/blocks/leaves/cedar_leaves",
+                          "line" : "textures/dokucraft/blocks/leaves/cedar_leaves",
+                           "T" : "textures/dokucraft/blocks/leaves/cedar_leaves"
                       }
                 },
                 "up": {
                     "smart": {
-                          "default" : "textures/dokucraft/blocks/leaves/cedar/cedar_leaves",
-                          "empty" : "textures/dokucraft/blocks/leaves/cedar/cedar_leaves",
-                          "L" : "textures/dokucraft/blocks/leaves/cedar/cedar_leaves",
-                          "line" : "textures/dokucraft/blocks/leaves/cedar/cedar_leaves",
-                           "T" : "textures/dokucraft/blocks/leaves/cedar/cedar_leaves"
+                          "default" : "textures/dokucraft/blocks/leaves/cedar_leaves",
+                          "empty" :"textures/dokucraft/blocks/leaves/cedar_leaves",
+                          "L" : "textures/dokucraft/blocks/leaves/cedar_leaves",
+                          "line" : "textures/dokucraft/blocks/leaves/cedar_leaves",
+                           "T" : "textures/dokucraft/blocks/leaves/cedar_leaves"
                         }
                     },          
-                "side": "textures/dokucraft/blocks/leaves/cedar/cedar_leaves"
+                "side": "textures/dokucraft/blocks/leaves/cedar_leaves"
                 }
             }
         }

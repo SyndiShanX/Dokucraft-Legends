@@ -3,9 +3,9 @@
     "badger:client_block": {
         "badger:block_slab_tree_cedar_leaves": {
             "textures": {
-                "up": "textures/dokucraft/blocks/leaves/cedar/cedar_leaves",
-                "down": "textures/dokucraft/blocks/leaves/cedar/cedar_leaves",
-                "side": "textures/dokucraft/blocks/leaves/cedar/cedar_leaves"
+                "up": "textures/dokucraft/blocks/leaves/cedar_leaves",
+                "down": "textures/dokucraft/blocks/leaves/cedar_leaves",
+                "side": "textures/dokucraft/blocks/leaves/cedar_leaves"
             }
         }
     }

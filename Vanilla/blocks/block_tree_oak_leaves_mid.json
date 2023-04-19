@@ -1,11 +1,11 @@
 {
     "format_version": "1.15.0",
     "badger:client_block": {
-        "badger:block_tree_cedar_leaves_mid": {
+        "badger:block_tree_oak_leaves_mid": {
             "textures": {
-                "up": "textures/dokucraft/blocks/leaves/cedar_leaves",
-                "down": "textures/dokucraft/blocks/leaves/cedar_leaves",
-                "side": "textures/dokucraft/blocks/leaves/cedar_leaves"
+                "up": "textures/blocks/tex_block_tree_oak_leaves_top",
+                "down": "textures/blocks/tex_block_tree_oak_leaves_top",
+                "side": "textures/blocks/tex_block_tree_oak_leaves_mid"
             },
             "particle_spawner": {
                 "effects" : [
@@ -14,7 +14,7 @@
                         "range": "near",
                         "probability": 0.075,
                         "trigger": "explosion",
-                        "rotation_mode": "trigger_xz"
+                        "rotation_mode": "trigger_xz"                   
                     }
                 ]           
             }
