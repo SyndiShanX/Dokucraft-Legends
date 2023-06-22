@@ -1,3 +1,22 @@
 
 Copy.bat
 CopyExclusions.txt
+textures/dokucraft/blocks/trees/*
+blocks/block_slab_tree_fir_01.json
+blocks/block_slab_tree_fir_02.json
+blocks/block_slab_tree_fir_03.json
+blocks/block_tree_fir_01.json
+blocks/block_tree_fir_02.json
+blocks/block_tree_fir_03.json
+blocks/block_tree_fir_snowy_01.json
+blocks/block_tree_fir_snowy_02.json
+blocks/block_tree_fir_snowy_03.json
+textures/dokucraft/blocks/leaves/fir/fir_leaves_01.png
+textures/dokucraft/blocks/leaves/fir/fir_leaves_02.png
+textures/dokucraft/blocks/leaves/fir/fir_leaves_03.png
+textures/dokucraft/blocks/leaves/fir/fir_leaves_base_01.png
+textures/dokucraft/blocks/leaves/fir/fir_leaves_base_02.png
+textures/dokucraft/blocks/leaves/fir/fir_leaves_base_03.png
+textures/dokucraft/blocks/leaves/fir/fir_leaves_snowy_01.png
+textures/dokucraft/blocks/leaves/fir/fir_leaves_snowy_02.png
+textures/dokucraft/blocks/leaves/fir/fir_leaves_snowy_03.png
